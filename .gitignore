@@ -6,3 +6,4 @@ pycache/
 # Ignorar a pasta de dados
 data/
 log_mnist/
+logdir/
