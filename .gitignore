@@ -1,0 +1,8 @@
+# Arquivos padrão
+.venv/ 
+pycache/ 
+*.pyc
+
+# Ignorar a pasta de dados
+data/
+log_mnist/
